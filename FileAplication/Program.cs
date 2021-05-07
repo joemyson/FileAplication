@@ -8,8 +8,8 @@ namespace FileAplication
         static void Main(string[] args)
 
         {
-            string sourcePath = @"C:\Users\joemy\source\repos\textoTeste.txt";
-            string targetPath = @"C:\Users\joemy\source\repos\textoTeste2.txt";
+            string sourcePath = @"C:caminho do diretorio";
+            string targetPath = @"C:caminho do diretorio";
 
 
             try
